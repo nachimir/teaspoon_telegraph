@@ -4,6 +4,8 @@ A 3D printable Morse telegraph key that uses a teaspoon as the lever arm.
 
 In print_files, you can find a .3mf, .stl, and .step files.
 
+Full documentation at (https://ympt.co.uk/teaspoontx.html)[https://ympt.co.uk/teaspoontx.html]
+
 Licensed under Creative Commons: CC-BY-NC
 
 <picture>
